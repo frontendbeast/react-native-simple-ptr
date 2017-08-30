@@ -1,0 +1,30 @@
+{
+  "author": {
+    "name": "Darren Hall",
+    "email": "darren@darrenhall.co"
+  },
+  "bugs": {
+    "url": "https://github.com/frontendbeast/react-native-simple-ptr/issues"
+  },
+  "description": "A simple and easily customisable pull to refresh component",
+  "homepage": "https://github.com/frontendbeast/react-native-simple-ptr",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "ios",
+    "android",
+    "animated",
+    "pull to refresh"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-simple-ptr",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frontendbeast/react-native-simple-ptr.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
