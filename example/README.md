@@ -2,8 +2,8 @@
 
 A customised example of a simple pull to refresh component for React Native, adapted from [`react-native-animated-ptr`](https://github.com/evetstech/react-native-animated-ptr/).
 
-<img src='../doc/custom-ios.gif' style="max-height: 400px;" />
-<img src='../doc/custom-android.gif' style="max-height: 400px;" />
+![](../doc/custom-ios.gif "iOS") ![](../doc/custom-android.gif "Android")
+
 
 Try it out using Expo at: https://expo.io/@frontendbeast/react-native-simple-ptr-example
 
