@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "react-native-simple-ptr-example",
+    "description": "Basic pull-to-refresh example by @frontendbeast: https://github.com/frontendbeast/react-native-simple-ptr",
+    "slug": "react-native-simple-ptr-example",
+    "privacy": "public",
+    "sdkVersion": "20.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#ff0000",
+    "icon": "./assets/icons/app-icon.png",
+    "loading": {
+      "icon": "./assets/icons/loading-icon.png",
+      "hideExponentText": true
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf", "mp4"]
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
