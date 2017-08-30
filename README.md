@@ -2,8 +2,7 @@
 
 A simple pull to refresh component for React Native, adapted from [`react-native-animated-ptr`](https://github.com/evetstech/react-native-animated-ptr/).
 
-<img src='./doc/basic-ios.gif' style="max-height: 400px;" />
-<img src='./doc/basic-android.gif' style="max-height: 400px;" />
+![](./doc/basic-ios.gif "iOS") ![](./doc/basic-android.gif "Android")
 
 ## Why?
 Because I wanted more control over the look and feel of the animation than I could get from the native `RefreshControl`, but less complex animations than `react-native-animated-ptr`.
@@ -52,7 +51,7 @@ export default class App extends React.Component {
 }
 ```
 
-The images and styles can be changed using the options below. An implementation of all the options can be found in the [example](./tree/master/example).
+The images and styles can be changed using the options below. An implementation of all the options can be found in the [example](example).
 
 ## Options
 
